@@ -69,7 +69,7 @@ body {
   flex: 70%;
   background-color: #C9E265;
   padding: 20px;
-
+  }
 /* Footer */
 .footer {
   padding: 20px;
